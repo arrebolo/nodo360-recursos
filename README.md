@@ -47,7 +47,7 @@ Documento educativo que explica:
 📄 **Descarga directa:**
 
 
-https://github.com/arrebolo/nodo360-recursos/blob/main/docs/bitcoin/introducci%C3%B3n%20al%20bitcoin%20v10.pdf
+https://github.com/arrebolo/nodo360-recursos/blob/main/introudccion-al-bitcoin-nodo360-v1.0.pdf
 
 
 ---
